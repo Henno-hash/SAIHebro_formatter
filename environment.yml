@@ -1,0 +1,6 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - pandas=1.4.1=py38hd77b12b_0
+  - python=3.8.8=hdbf39b2_5
